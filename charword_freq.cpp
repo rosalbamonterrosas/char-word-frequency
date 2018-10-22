@@ -1,15 +1,11 @@
 /************************************************************************************************************************
 
-Name: Rosalba Monterrosas             Z#: 23361820
-Course: Foundations of Computer Science (COP3014)
-Professor: Dr. Lofton Bullard
-Due Date: 10/15/2018           Due Time: 11:59pm
-Total Points: 100
-Assignment #7: charword_freq.cpp
+Name: Rosalba Monterrosas         
+Date: 10/15/2018 
 
 Description:
 This program determines the number of words and the number of occurrences of each letter in a block of text stored in a 
-data file called ìmytext.datî. When outputting the number of words and letters that occur in a line, the upper- and
+data file called ‚Äúmytext.dat‚Äù. When outputting the number of words and letters that occur in a line, the upper- and
 lowercase versions of a letter are counted as the same letter. The output lists the letters in alphabetical order and 
 lists only those letters that do occur in the input data file.
 *************************************************************************************************************************/
